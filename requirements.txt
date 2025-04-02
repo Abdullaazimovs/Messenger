@@ -1,0 +1,9 @@
+django>=5.1.4
+channels
+channels-redis
+daphne
+uvicorn[standard]
+djangorestframework
+djangorestframework-simplejwt
+drf-yasg
+psycopg2-binary
