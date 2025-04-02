@@ -21,7 +21,7 @@ Messager is a **Django-based real-time messaging application** powered by **Djan
 ✔ **Last seen tracking** for users  
 ✔ **Scalable architecture** with Django Channels & Redis  
 ✔ **Docker support** for easy deployment  
-✔ **Websocket
+✔ Websocket
 
 ---
 
