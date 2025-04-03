@@ -64,8 +64,8 @@ ROOT_URLCONF = "config.urls"
 
 AUTH_USER_MODEL = "user.User"
 AUTHENTICATION_BACKENDS = [
-    "user.authenfication.EmailBackend",  # Ensure this is correct
-    "django.contrib.auth.backends.ModelBackend",  # Keep the default one
+    "user.authenfication.EmailBackend",  
+    "django.contrib.auth.backends.ModelBackend",  
 ]
 
 TEMPLATES = [
